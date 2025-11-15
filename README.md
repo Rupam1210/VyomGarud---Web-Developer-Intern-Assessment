@@ -78,10 +78,15 @@ GitHub Repository
 README
 
 Screenshots/GIF
-<img width="1655" height="825" alt="Screenshot 2025-11-15 211423" src="https://github.com/user-attachments/assets/320394e7-9e1f-4a78-9e25-dd7eaa8bae24" />
+ <img width="1764" height="802" alt="Screenshot 2025-11-15 211302" src="https://github.com/user-attachments/assets/25112f35-effd-4fe2-989d-13b9b6d8d390" />
+
+
 <img width="1598" height="830" alt="Screenshot 2025-11-15 211327" src="https://github.com/user-attachments/assets/685d0b3b-f093-48c3-a5ce-bd1b6ef8def2" />
+
 <img width="1675" height="837" alt="Screenshot 2025-11-15 211343" src="https://github.com/user-attachments/assets/7c39cb2a-5736-4d80-894e-46125ccdb3b2" />
+
 <img width="1673" height="771" alt="Screenshot 2025-11-15 211400" src="https://github.com/user-attachments/assets/1d3d540c-ebd7-4aa8-a432-a971c0fdb4d8" />
+
 <img width="1655" height="825" alt="Screenshot 2025-11-15 211423" src="https://github.com/user-attachments/assets/559a9fac-f0d4-4273-967b-e7217b743d58" />
 
 
@@ -93,3 +98,4 @@ Screenshots/GIF
 This project focuses on creating a clean, bold, and high-impact landing page that reflects VyomGarud’s military-tech identity.
 
 Designed to be lightweight, responsive, and visually confident—just like a modern UAV platform.
+
