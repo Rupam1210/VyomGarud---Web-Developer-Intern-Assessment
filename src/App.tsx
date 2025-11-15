@@ -3,7 +3,7 @@ import About from './components/About';
 import Capabilities from './components/Capabilities';
 import Highlights from './components/Highlights';
 import Contact from './components/Contact';
- 
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <Capabilities />
       <Highlights />
       <Contact />
-       
+      <Footer />
     </div>
   );
 }
