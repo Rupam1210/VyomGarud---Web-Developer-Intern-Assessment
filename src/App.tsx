@@ -2,6 +2,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Capabilities from './components/Capabilities';
 import Highlights from './components/Highlights';
+import Contact from './components/Contact';
  
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
       <About />
       <Capabilities />
       <Highlights />
-    
+      <Contact />
+       
     </div>
   );
 }
